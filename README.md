@@ -3,7 +3,7 @@ Cypress workshop with Itera and school assignment
 
 ## Path for cypress projects:
 
-WorkshopCypress > cypress > integrations
+cypress > integrations
 
 
 ## How to run the project:
